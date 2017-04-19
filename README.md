@@ -1,6 +1,6 @@
 # npmtest-node-notifier
 
-#### test coverage for  [node-notifier (v5.1.2)](https://github.com/mikaelbr/node-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-node-notifier)
+#### basic test coverage for  [node-notifier (v5.1.2)](https://github.com/mikaelbr/node-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-node-notifier)
 
 #### A Node.js module for sending notifications on native Mac, Windows (post and pre 8) and Linux (or Growl as fallback)
 
